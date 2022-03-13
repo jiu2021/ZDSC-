@@ -45,7 +45,7 @@
 **克隆项目**
 
 ```
-git clone git@github.com:jiu2021/ZDSC-.git
+git clone git@github.com:jiu2021/ZDSC-koa2.git
 ```
 
 **安装依赖**
