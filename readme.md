@@ -71,10 +71,6 @@ npm install nodemon -D
 "nodemon": "^2.0.15"
 ```
 
-**新建数据库**
-
-在localhost:27017下建立名为ZDSC数据库
-
 **启动项目**
 
 ```
@@ -86,3 +82,4 @@ npm run dev
 **调用接口**
 
 可使用postman模拟发送http请求，接口地址参考/src/router文件
+

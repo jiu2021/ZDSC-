@@ -1,4 +1,3 @@
-const { context } = require(".");
 
 module.exports = (err, ctx) => {
   let status = 500;

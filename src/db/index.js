@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
   //连接数据库
-mongoose.connect('mongodb://localhost:27017/ZDSC');
+mongoose.connect('mongodb://localhost:27017/node-koa');
 
 //监听数据库连接状态
 mongoose.connection.once('open', () => {
